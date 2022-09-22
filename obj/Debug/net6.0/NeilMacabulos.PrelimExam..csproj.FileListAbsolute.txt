@@ -1,0 +1,8 @@
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..csproj.AssemblyReference.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..AssemblyInfoInputs.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..AssemblyInfo.cs
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..csproj.CoreCompileInputs.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..RazorAssemblyInfo.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.PrelimExam\obj\Debug\net6.0\NeilMacabulos.PrelimExam..RazorAssemblyInfo.cs

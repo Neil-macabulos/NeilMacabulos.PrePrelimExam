@@ -1,0 +1,45 @@
+﻿@page
+@model NeilMacabulos.PrelimExam_.Pages.StudentModel
+@{
+}
+<h1>@Model.ViewModel.Weather.Weather?.FirstOrDefault()?.Main</h1>
+<h2>Current Temperature : @Model.ViewModel.Weather.Main.Temp</h2>
+<img src=@Model.ViewModel.Weather.Weather?".FirstOrDefault()?.Icon" alt=@Model.ViewModel.Weather.Weather?>
+
+<form method="Post">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect01">Options</label>
+        </div>
+        <select class="custom-select" id="inputGroupSelect01">
+            <option selected>Choose...</option>
+            <option value="Location">Dinalupihan</option>
+            <option value="Location">Olongapo</option>
+            <option value="Location">Angeles City</option>
+            <option value="Location">Davao City</option>
+        </select>
+    </div>
+    <div class="col-lg-1">
+        <label for="nameoflocation">Dinalupihan</label>
+        <input type="text" id="lat" name="lat" value="14.8781"><br><br>
+        <input type="text" id="lon" name="lon" value=" 120.4546"><br><br>
+    </div>
+
+    <div class="col-lg-1">
+        <label for="nameoflocation">Olongapo City</label>
+        <input type="text" id="lat" name="lat" value=" 14.8386"><br><br>
+        <input type="text" id="lon" name="lon" value="14.8386"><br><br>
+    </div>
+
+    <div class="col-lg-1">
+        <label for="nameoflocation">Angeles City</label>
+        <input type="text" id="lat" name="lat" value="15.1450"><br><br>
+        <input type="text" id="lon" name="lon" value=" 15.1450"><br><br>
+    </div>
+    <div class="col-lg-1">
+        <label for="nameoflocation">Davao City</label>
+        <input type="text" id="lat" name="lat" value="7.1907"><br><br>
+        <input type="text" id="lon" name="lon" value=" 7.1907"><br><br>
+    </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+</form>
